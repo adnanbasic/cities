@@ -3,6 +3,8 @@
     cursor: pointer;
 }
 
+// Add new comment.
+
 .modal-container {
     z-index: 0.9;
     position: absolute;
