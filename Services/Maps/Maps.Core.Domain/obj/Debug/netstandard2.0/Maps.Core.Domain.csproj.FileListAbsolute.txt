@@ -1,0 +1,8 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\bin\Debug\netstandard2.0\Maps.Core.Domain.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\bin\Debug\netstandard2.0\Maps.Core.Domain.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\bin\Debug\netstandard2.0\Maps.Core.Domain.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\obj\Debug\netstandard2.0\Maps.Core.Domain.csprojAssemblyReference.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\obj\Debug\netstandard2.0\Maps.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\obj\Debug\netstandard2.0\Maps.Core.Domain.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\obj\Debug\netstandard2.0\Maps.Core.Domain.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Domain\obj\Debug\netstandard2.0\Maps.Core.Domain.pdb

@@ -1,0 +1,8 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\bin\Debug\netstandard2.0\Maps.Common.ViewModels.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\bin\Debug\netstandard2.0\Maps.Common.ViewModels.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\bin\Debug\netstandard2.0\Maps.Common.ViewModels.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\obj\Debug\netstandard2.0\Maps.Common.ViewModels.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\obj\Debug\netstandard2.0\Maps.Common.ViewModels.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\obj\Debug\netstandard2.0\Maps.Common.ViewModels.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\obj\Debug\netstandard2.0\Maps.Common.ViewModels.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.ViewModels\obj\Debug\netstandard2.0\Maps.Common.ViewModels.csprojAssemblyReference.cache

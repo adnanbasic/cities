@@ -1,0 +1,8 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\bin\Debug\netstandard2.0\Maps.Common.Exceptions.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\bin\Debug\netstandard2.0\Maps.Common.Exceptions.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\bin\Debug\netstandard2.0\Maps.Common.Exceptions.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\obj\Debug\netstandard2.0\Maps.Common.Exceptions.csprojAssemblyReference.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\obj\Debug\netstandard2.0\Maps.Common.Exceptions.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\obj\Debug\netstandard2.0\Maps.Common.Exceptions.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\obj\Debug\netstandard2.0\Maps.Common.Exceptions.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Exceptions\obj\Debug\netstandard2.0\Maps.Common.Exceptions.pdb

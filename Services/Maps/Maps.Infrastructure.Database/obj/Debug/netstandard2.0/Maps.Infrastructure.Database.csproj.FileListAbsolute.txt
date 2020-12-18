@@ -1,0 +1,17 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Infrastructure.Database.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Infrastructure.Database.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.csprojAssemblyReference.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Core.Domain.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Core.Services.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Infrastructure.Database.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Core.Services.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Core.Domain.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.csproj.CopyComplete
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\obj\Debug\netstandard2.0\Maps.Infrastructure.Database.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Common.Exceptions.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Common.ViewModels.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Common.Exceptions.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Infrastructure.Database\bin\Debug\netstandard2.0\Maps.Common.ViewModels.pdb

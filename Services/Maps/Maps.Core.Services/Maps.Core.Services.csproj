@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Maps.Common.Exceptions\Maps.Common.Exceptions.csproj" />
+    <ProjectReference Include="..\Maps.Common.ViewModels\Maps.Common.ViewModels.csproj" />
+    <ProjectReference Include="..\Maps.Core.Domain\Maps.Core.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

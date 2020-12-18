@@ -1,0 +1,25 @@
+.clickable:hover {
+    background-color: rgba(0, 0, 0, 0.041);
+    cursor: pointer;
+}
+
+.modal-container {
+    z-index: 0.9;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.map-marker {
+    color: 'white';
+    background: 'grey';
+    padding: '15px 10px';
+    display: 'inline-flex';
+    text-align: 'center';
+    align-items: 'center';
+    justify-content: 'center';
+    border-radius: '100%';
+    transform: 'translate(-50%, -50%)';
+  }

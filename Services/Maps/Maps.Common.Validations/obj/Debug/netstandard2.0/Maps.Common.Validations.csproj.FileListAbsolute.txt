@@ -1,0 +1,11 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\bin\Debug\netstandard2.0\Maps.Common.Validations.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\bin\Debug\netstandard2.0\Maps.Common.Validations.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.csprojAssemblyReference.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\bin\Debug\netstandard2.0\Maps.Common.Validations.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\bin\Debug\netstandard2.0\Maps.Common.ViewModels.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\bin\Debug\netstandard2.0\Maps.Common.ViewModels.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.csproj.CopyComplete
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Common.Validations\obj\Debug\netstandard2.0\Maps.Common.Validations.pdb

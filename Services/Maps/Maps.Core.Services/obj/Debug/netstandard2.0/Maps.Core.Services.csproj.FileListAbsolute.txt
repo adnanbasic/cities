@@ -1,0 +1,15 @@
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Core.Domain.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.csprojAssemblyReference.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.AssemblyInfoInputs.cache
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.AssemblyInfo.cs
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Core.Services.deps.json
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Core.Services.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Core.Services.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Core.Domain.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.csproj.CopyComplete
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\obj\Debug\netstandard2.0\Maps.Core.Services.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Common.Exceptions.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Common.ViewModels.dll
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Common.Exceptions.pdb
+C:\Users\ajdinje\Desktop\Maps\Services\Maps\Maps.Core.Services\bin\Debug\netstandard2.0\Maps.Common.ViewModels.pdb
